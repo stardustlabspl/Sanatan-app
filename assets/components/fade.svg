@@ -1,0 +1,24 @@
+<svg width="2252" height="1287" viewBox="0 0 2252 1287" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_1647_7955)">
+<ellipse cx="1126" cy="467.5" rx="196" ry="90.5" fill="#0066FF"/>
+</g>
+<g filter="url(#filter1_f_1647_7955)">
+<ellipse cx="1126" cy="884" rx="819" ry="96" fill="url(#paint0_radial_1647_7955)"/>
+</g>
+<defs>
+<filter id="filter0_f_1647_7955" x="553" y="0" width="1146" height="935" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="188.5" result="effect1_foregroundBlur_1647_7955"/>
+</filter>
+<filter id="filter1_f_1647_7955" x="0" y="481" width="2252" height="806" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="153.5" result="effect1_foregroundBlur_1647_7955"/>
+</filter>
+<radialGradient id="paint0_radial_1647_7955" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1126 884) rotate(45) scale(463.155 1018.75)">
+<stop stop-color="#482D97"/>
+<stop offset="0.976744"/>
+</radialGradient>
+</defs>
+</svg>
